@@ -9,6 +9,11 @@
 <p align="left">
 <a href="https://linkedin.com/in/ashraful alam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashraful alam" height="30" width="40" /></a>
 <a href="https://fb.com/ashraful alam talash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashraful alam talash" height="30" width="40" /></a>
+
+</p>
+<h3 align="left">Problem Solving Activities:</h3>
+<p align="left">
+
 <a href="https://www.codechef.com/users/talash_570" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="talash_570" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ashraful alam talash_30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ashraful alam talash_30" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/_palestine_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="_palestine_" height="30" width="40" /></a>
